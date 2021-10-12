@@ -1,0 +1,23 @@
+#logo {
+	text-align: center;
+	color: violet;
+	font-size: 140px;
+	margin-top: 200px;
+}
+#searchForm {
+	text-align: center;
+}
+.inputField {
+	border-radius: 50px;
+	border-color: violet;
+	width: 400px;
+	margin: 10px;
+}
+.linkBetweenPages {
+	text-align: right;
+	margin: 5px;
+}
+.searchButton {
+	margin: 10px;
+}
+
